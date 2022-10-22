@@ -5,7 +5,7 @@
 from pytube import YouTube
 import ffmpeg
 
-URL = 'https://www.youtube.com/watch?v=3ohS3pE3k2E'
+URL = 'https://www.youtube.com/'
 DOWNLOAD_DIRECTORY = 'Downloads'
 
 
